@@ -1,0 +1,8 @@
+data/annotations
+data/rimages
+data/pascal_ctx/trainval_merged.json
+data/pascal_ctx/VOCdevkit
+log
+output
+pretrained_models
+core*
